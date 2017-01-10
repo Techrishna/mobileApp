@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/classes-7674b79ec34e1b9ab0fe3f77758be28475d2c80c.jar" />
+    </item>
+    <item
+        jar="/Users/Balodistechnologies/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0-e8dc594598f4a07b8e895738549ba1d5d37dc674.jar" />
+    </item>
+    <item
+        jar="/Users/Balodistechnologies/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/okio-1.8.0-2adc57793f50c27d8148ee19d01ad4a5c3c323d2.jar" />
+    </item>
+    <item
+        jar="/Users/Balodistechnologies/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/gson-2.6.1-8efc7fce12d833c8aed19e16ff16987e15034521.jar" />
+    </item>
+    <item
+        jar="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/classes-e2f4bdbc40233a950a7811e7cf6bf0dfd378b1d7.jar" />
+    </item>
+    <item
+        jar="/Users/Balodistechnologies/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-c97e43c84a57b9c8e2dfe20f5fbe423af839fb50.jar" />
+    </item>
+    <item
+        jar="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/classes-deb263ed41a09bad896eb8fc3f9c0bfd8ea689ba.jar" />
+    </item>
+    <item
+        jar="/Users/Balodistechnologies/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2-212a801067d5bcf98db2864808071af0a162f083.jar" />
+    </item>
+    <item
+        jar="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-b764db5c3a55821529f973bde0f59279dfa2f674.jar" />
+    </item>
+    <item
+        jar="/Users/Balodistechnologies/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/Balodistechnologies/workspace/android/Roostio/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0-8408d0cbbf133984996dc40fdb4d4dbdb66a79e8.jar" />
+    </item>
+
+</items>
